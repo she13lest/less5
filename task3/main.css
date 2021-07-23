@@ -2,7 +2,7 @@
   background-color: red;
 }
 .company-data,
-.user-data {
+.highlighted {
   color: yellow;
 }
 li.user-data {
