@@ -7,7 +7,7 @@ ol {
 }
 footer,
 header {
-  border: 3px dashes blue;
+  border: 3px dashed blue;
 }
 h1,
 h2,
